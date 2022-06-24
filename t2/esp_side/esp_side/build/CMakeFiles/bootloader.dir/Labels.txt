@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/cristobal/esp/tarea2/iot/esp_side/esp_side/build/CMakeFiles/bootloader
+/home/cristobal/esp/tarea2/iot/esp_side/esp_side/build/CMakeFiles/bootloader.rule
+/home/cristobal/esp/tarea2/iot/esp_side/esp_side/build/CMakeFiles/bootloader-complete.rule
+/home/cristobal/esp/tarea2/iot/esp_side/esp_side/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/cristobal/esp/tarea2/iot/esp_side/esp_side/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/cristobal/esp/tarea2/iot/esp_side/esp_side/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/cristobal/esp/tarea2/iot/esp_side/esp_side/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/cristobal/esp/tarea2/iot/esp_side/esp_side/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/cristobal/esp/tarea2/iot/esp_side/esp_side/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/cristobal/esp/tarea2/iot/esp_side/esp_side/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

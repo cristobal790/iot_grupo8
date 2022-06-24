@@ -1,0 +1,22 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "C:/Users/Cristobal/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "C:/Users/Cristobal/esp/tcp_client/build/bootloader",
+    "config_file":        "C:/Users/Cristobal/esp/tcp_client/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v5.0-dev-2393-gfaed2a44aa",
+    "target":             "esp32",
+    "rev":                "0",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "C:/Users/Cristobal/esp/esp-idf/components/efuse/Kconfig;C:/Users/Cristobal/esp/esp-idf/components/esp32/Kconfig;C:/Users/Cristobal/esp/esp-idf/components/esp_common/Kconfig;C:/Users/Cristobal/esp/esp-idf/components/esp_hw_support/Kconfig;C:/Users/Cristobal/esp/esp-idf/components/esp_system/Kconfig;C:/Users/Cristobal/esp/esp-idf/components/freertos/Kconfig;C:/Users/Cristobal/esp/esp-idf/components/hal/Kconfig;C:/Users/Cristobal/esp/esp-idf/components/log/Kconfig;C:/Users/Cristobal/esp/esp-idf/components/newlib/Kconfig;C:/Users/Cristobal/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "C:/Users/Cristobal/esp/esp-idf/components/bootloader/Kconfig.projbuild;C:/Users/Cristobal/esp/esp-idf/components/esp_rom/Kconfig.projbuild;C:/Users/Cristobal/esp/esp-idf/components/esptool_py/Kconfig.projbuild;C:/Users/Cristobal/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "C:/Users/Cristobal/esp/esp-idf/components/bootloader", "C:/Users/Cristobal/esp/esp-idf/components/bootloader_support", "C:/Users/Cristobal/esp/esp-idf/components/efuse", "C:/Users/Cristobal/esp/esp-idf/components/esp32", "C:/Users/Cristobal/esp/esp-idf/components/esp_common", "C:/Users/Cristobal/esp/esp-idf/components/esp_hw_support", "C:/Users/Cristobal/esp/esp-idf/components/esp_rom", "C:/Users/Cristobal/esp/esp-idf/components/esp_system", "C:/Users/Cristobal/esp/esp-idf/components/esptool_py", "C:/Users/Cristobal/esp/esp-idf/components/freertos", "C:/Users/Cristobal/esp/esp-idf/components/hal", "C:/Users/Cristobal/esp/esp-idf/components/log", "C:/Users/Cristobal/esp/esp-idf/components/bootloader/subproject/main", "C:/Users/Cristobal/esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "C:/Users/Cristobal/esp/esp-idf/components/newlib", "C:/Users/Cristobal/esp/esp-idf/components/partition_table", "C:/Users/Cristobal/esp/esp-idf/components/soc", "C:/Users/Cristobal/esp/esp-idf/components/spi_flash", "C:/Users/Cristobal/esp/esp-idf/components/xtensa", "" ],
+    "debug_prefix_map_gdbinit": ""
+}
